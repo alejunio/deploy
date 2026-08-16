@@ -26,7 +26,7 @@ export default function Home() {
       <section className="hero">
         <div className="hero__copy">
           <span className="eyebrow">PixelRaid // Temporada 09</span>
-          <h1>Entre na arena onde cada partida vale recompensa real.</h1>
+          <h1>Producao</h1>
           <p>
             Uma landing de games pensada para lancar comunidade, torneios, ranking
             semanal e campanhas de aquisicao com visual forte e deploy simples.
