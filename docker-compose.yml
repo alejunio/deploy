@@ -1,0 +1,9 @@
+services:
+  games-landing:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: games-landing
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
