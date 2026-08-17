@@ -14,7 +14,7 @@ const orbitron = Orbitron({
 });
 
 export const metadata: Metadata = {
-  title: "Producao | PixelRaid",
+  title: "Producao oficial | PixelRaid",
   description: "Landing page de uma comunidade de games com foco em rankings, drops e eventos ao vivo.",
 };
 
